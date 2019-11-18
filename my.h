@@ -3,8 +3,7 @@
 #ifndef MY_H_INCLUDED
 #define MY_H_INCLUDED
  
-#include <iostream>
-using namespace std;
+#include "std_lib_facilities.h"
  
 extern int foo;
 void print_foo();
